@@ -21,5 +21,5 @@ console.log(typeof Marks_Of_Student)
 
 for(let i=0;i<Object.keys(Marks_Of_Student).length;i++)
 {
-    console.log(Marks_Of_Student[i])
+    console.log(Marks_Of_Student[i]);
 }
