@@ -11,7 +11,7 @@ console.log(name1.replace("end","day")) /// Replace
 let name2 = "Oosam"
 console.log(name1.concat(" is Our Group Circle is ",name2))
 
-let name3 = "      Oosam      "
+let name3 = "      Oosam"
 console.log(name3)
 console.log(name3.trim());
 
