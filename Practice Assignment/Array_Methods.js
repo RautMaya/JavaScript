@@ -16,7 +16,7 @@ console.log(Student_Marks)
 
 Student_Marks.unshift(22)    /// Add Beganing of the array
 console.log(Student_Marks)
-console.log(Student_Marks)
+
 
 
 delete Student_Marks[0]
