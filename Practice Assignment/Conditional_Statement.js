@@ -12,12 +12,11 @@ else
 
 let Day;
 
-///prompt("Enter a number");
+Day =prompt("Enter a number 1-7");
 
-switch(Day)
+
+switch (Day)
 {
-   
-
     case 1 : console.log("Sunday");
     break;
     case 2 : console.log("Monday");
