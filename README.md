@@ -29,7 +29,7 @@ This repository contains JavaScript practice files that I work on using Visual S
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
+
 
 ---
 🚀 Happy Coding!
