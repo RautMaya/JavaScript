@@ -27,9 +27,6 @@ This repository contains JavaScript practice files that I work on using Visual S
 - [JavaScript.info](https://javascript.info/)
 - [Node.js Official Docs](https://nodejs.org/en/docs/)
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maya-raut-14aa212ab)
-
 
 ---
 🚀 Happy Coding!
