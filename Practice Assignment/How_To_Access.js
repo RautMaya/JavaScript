@@ -12,4 +12,4 @@ let Student
         console.log("Hellow ," + Student.Roll);
     }
     console.log("Hellow ," + Mark.Col);
-};
+}
