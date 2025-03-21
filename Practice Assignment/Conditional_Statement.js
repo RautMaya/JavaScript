@@ -12,7 +12,7 @@ else
 
 let Day;
 
-Day =prompt("Enter a number 1-7");
+Day =5;
 
 
 switch (Day)
