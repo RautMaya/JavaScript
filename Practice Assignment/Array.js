@@ -7,7 +7,7 @@ console.log(Marks_Of_Student[2])
 console.log(Marks_Of_Student[3])
 console.log(Marks_Of_Student[4])
 console.log(Marks_Of_Student[5])
-console.log(Marks_Of_Student[6])
+
 
 console.log(Marks_Of_Student)
 
