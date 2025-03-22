@@ -22,4 +22,4 @@ for(let i in Marks)
 const arrow = (a,b,c,d) => {
   return (a+b+c+d)/4
 }
-console.log(arrow(4,5,6,7))
+console.log(arrow(4,5,6,8))
