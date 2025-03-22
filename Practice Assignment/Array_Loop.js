@@ -13,7 +13,7 @@ num.forEach((element) => {
 
 ///Array.From
 
-let Name = "Maya and"
+let Name = "Maya"
 let arr =Array.from(Name)
 console.log(arr)
 
