@@ -1,6 +1,6 @@
 /// Q 1
 
-let a = prompt("Enter Name");
+let a = prompt("Enter a Name");
 
 let age = Number.parseInt(a)
 
