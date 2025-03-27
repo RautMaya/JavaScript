@@ -1,4 +1,5 @@
 window.console.log(window);
+console.log(window);
 
 ///DOM
 console.log(document.body);
