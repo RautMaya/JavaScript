@@ -16,10 +16,10 @@ for(let i=0 ; i<Object.keys(Marks).length;i++)
 for(let i in Marks)
 {
     ///console.log(i)
-    console.log("The Marks of " + i + " are " + Marks[i])
+    console.log("The Marks of " + i + " are " + Marks[i]);
 }
 
 const arrow = (a,b,c,d) => {
-  return (a+b+c+d)/4
+  return (a+b+c+d)/4;
 }
-console.log(arrow(4,5,6,8))
+console.log(arrow(4,5,6,8));
