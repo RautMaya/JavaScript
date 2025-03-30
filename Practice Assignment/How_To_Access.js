@@ -5,7 +5,7 @@ let Student
 
     console.log(this.Roll);
 
-    console.log(Student.Name);
+    ///console.log(Student.Name);
     function Mark()
     {
         let Col = "Maya";
