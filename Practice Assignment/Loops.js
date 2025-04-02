@@ -8,7 +8,7 @@ let Marks = {
 
 for(let i=0 ; i<Object.keys(Marks).length;i++)
 {
-    console.log("The Marks Of " + Object.keys(Marks)[i] + " are " + Marks[Object.keys(Marks)[i]])
+    console.log("The Marks Of " + Object.keys(Marks)[i] + " are " + Marks[Object.keys(Marks)[i]]);
 }
 
 /// For In loop
