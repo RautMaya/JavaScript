@@ -1,12 +1,12 @@
 ///Questation 1
-let a = "Punam"
+let a = "Punam";
 let b = 8;
 
-console.log(a+b)
+console.log(a+b);
 
 ///Questation 1
 
-console.log(typeof(a+b))
+console.log(typeof(a+b));
 
 ///Questation 1
 
@@ -29,5 +29,5 @@ const Disc = {
     Skills : "Learn"
 
 }
-console.log(Disc.Happy)
-console.log(Disc['Life'])  /// This to be used To access Data
+console.log(Disc.Happy);
+console.log(Disc['Life']);  /// This to be used To access Data
