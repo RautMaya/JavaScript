@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+   
+}
+.nav1{
+    background-color: aqua;
+    justify-content: space-evenly;
+    position: relative;
+    display: flex;
+    height: 40px;
+    width: 100%;
+    
+}
+.a{
+    height: 15%;
+
+}
