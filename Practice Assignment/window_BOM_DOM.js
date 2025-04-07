@@ -8,4 +8,4 @@ console.log(document.body.style.background = "yellow");
 
 ///BOM
 
-location.href = "https://github.com/RautMaya/"
+location.href = "https://github.com/RautMaya/";
