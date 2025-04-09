@@ -15,6 +15,7 @@ let a1= arr.map((num)=>{
     return num*num;
 })
 console.log(a1);
+console.log(a);
 
 //Question 3
 
