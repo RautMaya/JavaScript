@@ -26,5 +26,5 @@ let a3 = arr2.reduce((h1,h2) =>
     return h1*h2;
 })
 console.log(a3);
-console.log(arr2);
+console.log(arr2)
 
