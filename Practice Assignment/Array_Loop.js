@@ -28,5 +28,5 @@ for(let i of num)
 
 for(let i in num)
 {
-    console.log(i)
+    console.log(i);
 }
