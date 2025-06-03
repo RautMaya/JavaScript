@@ -19,4 +19,4 @@ console.log(num2);
 
 let num3 = [12,56,98,45,6,3];
 num3.slice(2,6);
-console.log(num3)
+console.log(num3);
