@@ -33,5 +33,5 @@ console.log(New_Array);
 /// Sort
 
 New_Array.sort();
-console.log(New_Array)
+console.log(New_Array);
 
